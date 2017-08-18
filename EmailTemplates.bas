@@ -8,7 +8,7 @@ Public Template As Outlook.MailItem
 '=========================================================================
 ' First folder
 '=========================================================================
-Sub ProjectClosures()
+Sub EmailTemplates()
     CreateReplyFromTemplate "Email_Templates"
 End Sub
 '=========================================================================
